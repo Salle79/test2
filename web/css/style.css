@@ -1,0 +1,39 @@
+a:link {color: black}
+a:visited {color: black}
+a:hover {color: black}
+a:active {color: black}
+
+div.container
+{
+width:100%;
+margin:0px;
+border:1px solid gray;
+line-height:150%;
+
+}
+
+div.subheader
+{
+width:100%;
+margin:0px;
+border:1px solid gray;
+line-height:120%;
+}
+div.header,div.footer
+{
+text-align: center;
+padding:0.5em;
+color:white;
+background-color:gray;
+}
+h4.header, h1.header
+{
+padding:0;
+margin:0;
+text-align: center;
+}
+div.content
+{
+border-left:1px solid gray;
+padding:1em;
+}
